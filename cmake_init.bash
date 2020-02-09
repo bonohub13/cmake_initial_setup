@@ -1,0 +1,1 @@
+/home/kensuke/programming/shellscript/commands/cmake_init.bash
