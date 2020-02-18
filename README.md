@@ -11,3 +11,9 @@
 	- $ mkdir __random C++ ws name__/src
 - run _cmake-init_ under the workspace directory
 	- this makes the _include_, _test_, _build_ directory and a simple CMakeLists.txt file under the workspace
+
+- - -
+
+## ::::: Updates :::::
+- February 18th, 2020
+	- fixed a problem that happened when there are something under _src_ directory

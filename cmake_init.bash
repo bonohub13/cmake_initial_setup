@@ -2,7 +2,7 @@
 
 current_dir=$(pwd)
 
-if [ $(find . | grep "src") = "./src" ]
+if [ $(find . | grep -m 1 "src") = "./src" ]
 then
 	mkdir "build" \
 		"test" \
