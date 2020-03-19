@@ -17,3 +17,5 @@
 ## ::::: Updates :::::
 - February 18th, 2020
 	- fixed a problem that happened when there are something under _src_ directory
+- March 19th, 2020
+	- modified the template of CMakeLists.txt file for making importing personal header files easier
