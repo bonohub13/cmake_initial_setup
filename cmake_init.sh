@@ -8,6 +8,7 @@ then
 		"test" \
 		"include"
 	cp ~/.templates/CMakeLists.txt $current_dir
+	cp ~/.templates/CMakeLists.txt $current_dir/src
 	cd $current_dir/build && cmake ../
 	cd $current_dir
 else
