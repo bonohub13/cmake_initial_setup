@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/hello.dir/main.cpp.o -o hello  -Wl,-rpath,/home/kensuke/workspace/.repos/cmake_initial_setup/test_ws/hello/build/include/hello_pkg/src ../include/hello_pkg/src/libhello_pkg.so 
